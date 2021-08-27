@@ -1,6 +1,6 @@
 ## 💜 Hi, my name is <strong>Davi!</strong>
 
-> I'm a Computer Science student at Universidade Federal Do Espírito Santo and DevOps Engineer Junior at Seeds Consulting AS/Leanon Systems
+> I'm a Computer Science student at Universidade Federal Do Espírito Santo and DevOps Engineer at Seeds Consulting AS/Leanon Systems
 
 🔭 Currently studying and getting experience with Kubernetes, Monitoring and Infra-as-code tools, also like to play with some smart home and Home Assistant stuffs as a hobby. Has a huge knowledge of Python scripting. 
 
