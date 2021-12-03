@@ -70,6 +70,8 @@
 
 ----
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin](https://img.shields.io/badge/-davipetris-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davipetris/)](https://www.linkedin.com/in/davipetris/)
