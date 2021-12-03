@@ -7,9 +7,11 @@
 ----
 
 ## ⭐ My Github account informations
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviPtrs&show_icons=true)
 
-
+  <div>
+  <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=DaviPtrs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviPtrs&&layout=compact&hide=shell&theme=dracula">
+  </div>
 
 ![](https://komarev.com/ghpvc/?username=DaviPtrs&color=006bed)
 
@@ -70,10 +72,12 @@
 
 ----
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
-
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin](https://img.shields.io/badge/-davipetris-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davipetris/)](https://www.linkedin.com/in/davipetris/)
 [![Gmail Badge](https://img.shields.io/badge/-davispetris@gmail.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:davispetris@gmail.com)](mailto:davispetris@gmail.com)
 [![GitHub]( https://img.shields.io/github/followers/DaviPtrs?label=follow&style=social)](https://github.com/DaviPtrs)
+
+---
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
