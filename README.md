@@ -1,8 +1,8 @@
 ## 💜 Hi, my name is <strong>Davi!</strong>
 
-> I'm a Computer Science student at Universidade Federal Do Espírito Santo and DevOps Engineer at Seeds Consulting AS/Leanon Systems
+> I'm a Senior DevOps Engineer at RenLabs working on Commune AI and Torus Network blockchain infrastructure. Computer Science graduate from Universidade Federal Do Espírito Santo.
 
-🔭 Currently studying and getting experience with Kubernetes, Monitoring and Infra-as-code tools, also like to play with some smart home and Home Assistant stuffs as a hobby. Has a huge knowledge of Python scripting. 
+🔭 Currently architecting multi-cloud Kubernetes infrastructure across 10+ global regions, managing blockchain validators, and building CI/CD automation. Specialized in Infrastructure-as-Code, container orchestration, and blockchain operations. CKAD and HashiCorp Terraform certified.
 
 ----
 
@@ -15,64 +15,85 @@
 
 ![](https://komarev.com/ghpvc/?username=DaviPtrs&color=006bed)
 
----- 
+----
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
-**Container Orchestration**
+**Container Orchestration & Cloud Native**
 
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=for-the-badge&logo=kubernetes)
-  ![Kind](https://img.shields.io/badge/-Kind-333333?style=for-the-badge&logo=kubernetes)
-  ![GKE](https://img.shields.io/badge/-GKE-333333?style=for-the-badge&logo=google-cloud)
-  ![AKS](https://img.shields.io/badge/-AKS-333333?style=for-the-badge&logo=amazon-aws)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
-  ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-333333?style=for-the-badge&logo=docker)
-  ![Fargate](https://img.shields.io/badge/-Fargate-333333?style=for-the-badge&logo=amazon-aws)
+  ![Helm](https://img.shields.io/badge/-Helm-333333?style=for-the-badge&logo=helm)
+  ![K3s](https://img.shields.io/badge/-K3s-333333?style=for-the-badge&logo=k3s)
 
-**Code Versioning and Pipeline**
+**Infrastructure as Code**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=for-the-badge&logo=GitLab)
-  ![Gitlab CI](https://img.shields.io/badge/-Gitlab%20CI-333333?style=for-the-badge&logo=GitLab)
-  ![Circle CI](https://img.shields.io/badge/-Circle%20CI-333333?style=for-the-badge&logo=circleci)
-  ![Drone CI](https://img.shields.io/badge/-Drone%20CI-333333?style=for-the-badge&logo=drone)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=for-the-badge&logo=Github-Actions)
-
-**Infra as Code**
-
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=for-the-badge&logo=terraform)
   ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=for-the-badge&logo=ansible)
+  ![Packer](https://img.shields.io/badge/-Packer-333333?style=for-the-badge&logo=packer)
 
-**Monitoring**
+**CI/CD & Version Control**
+
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=for-the-badge&logo=Github-Actions)
+  ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-333333?style=for-the-badge&logo=GitLab)
+  ![CircleCI](https://img.shields.io/badge/-CircleCI-333333?style=for-the-badge&logo=circleci)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+
+**Blockchain & Web3**
+
+  ![Substrate](https://img.shields.io/badge/-Substrate-333333?style=for-the-badge&logo=polkadot)
+  ![Polkadot](https://img.shields.io/badge/-Polkadot.js-333333?style=for-the-badge&logo=polkadot)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=for-the-badge&logo=rust)
+
+**Monitoring & Observability**
 
   ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=for-the-badge&logo=Prometheus)
   ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=for-the-badge&logo=Grafana)
+  ![Loki](https://img.shields.io/badge/-Loki-333333?style=for-the-badge&logo=Grafana)
 
-**Programming Skills**
+**Security & Secrets Management**
+
+  ![HashiCorp Vault](https://img.shields.io/badge/-Vault-333333?style=for-the-badge&logo=vault)
+  ![Kyverno](https://img.shields.io/badge/-Kyverno-333333?style=for-the-badge&logo=kubernetes)
+
+**Cloud Providers**
+
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=for-the-badge&logo=amazon-aws)
+  ![GCP](https://img.shields.io/badge/-GCP-333333?style=for-the-badge&logo=google-cloud)
+  ![Hetzner](https://img.shields.io/badge/-Hetzner-333333?style=for-the-badge&logo=hetzner)
+  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=for-the-badge&logo=digitalocean)
+  ![Oracle Cloud](https://img.shields.io/badge/-OCI-333333?style=for-the-badge&logo=oracle)
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=for-the-badge&logo=cloudflare)
+
+**Programming & Scripting**
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
-  ![Jinja](https://img.shields.io/badge/-Jinja-333333?style=for-the-badge&logo=jinja)
-  ![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=for-the-badge&logo=go)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnu-bash)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript)
 
-**Utility**
+**Databases**
 
-  ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=for-the-badge&logo=selenium)
-  ![vmware](https://img.shields.io/badge/-vmware-333333?style=for-the-badge&logo=vmware)
-  ![virtualbox](https://img.shields.io/badge/-virtualbox-333333?style=for-the-badge&logo=virtualbox)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
 
-**General Tools**
+**Development Tools**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=for-the-badge&logo=trello)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=Jira-Software)
-  ![Slack](https://img.shields.io/badge/-slack-333333?style=for-the-badge&logo=slack)
+  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code)
+  ![Nix](https://img.shields.io/badge/-Nix-333333?style=for-the-badge&logo=nixos)
 
 ----
 
-<h3> :earth_americas: &nbsp;Where to find me: </h3> 
+<h3> 🏆 &nbsp;Certifications </h3>
+
+- **CKAD**: Certified Kubernetes Application Developer (2024)
+- **HashiCorp Certified**: Terraform Associate (2022)
+- **GitLab Certified Associate** (2021)
+- **Oracle Cloud Infrastructure 2023 Certified**: DevOps Professional, Architect Professional, Security Professional, Cloud Operations Professional
+
+----
+
+<h3> :earth_americas: &nbsp;Where to find me: </h3>
 
 [![Linkedin](https://img.shields.io/badge/-davipetris-blue?style=for-the-badge-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davipetris/)](https://www.linkedin.com/in/davipetris/)
 [![Gmail Badge](https://img.shields.io/badge/-davispetris@gmail.com-006bed?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:davispetris@gmail.com)](mailto:davispetris@gmail.com)
@@ -80,4 +101,4 @@
 
 ---
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
